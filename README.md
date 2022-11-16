@@ -11,6 +11,6 @@
 - [Презентация](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pdf):pushpin:
 - [Trello](https://trello.com/202297922533):pushpin:
 
-## В данной репозитории представлены основная документация приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
+## В данной репозитории представлена основная документация приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Frontend](https://github.com/TheTargetAdam/front):point_left:
 - [Backend](https://github.com/TheTargetAdam/back):point_left:
