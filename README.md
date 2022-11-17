@@ -8,7 +8,7 @@
 ## Также предоставлю нужные ссылки, чтоб вы лучше смогли разобраться в проекте::wink:
 - [Техническое задание](https://github.com/TheTargetAdam/docs-/blob/main/TZ.pdf):pushpin:
 - [Курсовая работа](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya.pdf):pushpin:
-- [Презентация](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pdf):pushpin:
+- [Презентация по курсовой](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pptx):pushpin:
 - [Trello](https://trello.com/202297922533):pushpin:
 - [Jira](https://www.atlassian.com/ru/software/jira3):pushpin:
 
