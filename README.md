@@ -9,8 +9,9 @@
 - [Техническое задание](https://github.com/TheTargetAdam/docs-/blob/main/TZ.pdf):pushpin:
 - [Курсовая работа](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya.pdf):pushpin:
 - [Презентация по курсовой](https://github.com/TheTargetAdam/docs-/blob/main/Kursovaya_prez.pptx):pushpin:
-- [Trello](https://trello.com/202297922533):pushpin:
-- [Jira](https://www.atlassian.com/ru/software/jira3):pushpin:
+- [Trello](https://trello.com/b/6tiVTElm/сайт-youfree):pushpin:
+- [Miro](https://miro.com/welcomeonboard/SDNMOXZoRnh1S296N3ZHVU53bHh1WnNjcGx4bjVXa3FCY3lkN1N3TWZJcnhnQzJMY0swVnRkSEMxOXdSbURVb3wzNDU4NzY0NTM4OTI2Mjk2ODkwfDI=?share_link_id=395207601280):pushpin:
+- [Figma](https://www.figma.com/file/new/Untitled?t=sONgqNzdeuh8NXKc-0), не работал на figma, но для демонстрации решил сделать дизайн для этого проекта в будущем, но почему то слетела ссылка, не знаю, может не запускается только у меня, по ходу работы сохранил главную страницу, чтоб посмотреть надо клинкнуть [сюда](https://github.com/TheTargetAdam/docs-/blob/main/Figma.jpg)не знаю в чем проблема, вроде по ходу сохранял и все резко пропало:pushpin:
 
 ## В данной репозитории представлена основная документация приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Frontend](https://github.com/TheTargetAdam/front):point_left:
