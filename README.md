@@ -14,6 +14,7 @@
 - [Figma](https://www.figma.com/file/new/Untitled?t=sONgqNzdeuh8NXKc-0) 
 Дополнение: Не работал на figma, но для демонстрации решил сделать дизайн для этого проекта в будущем, но почему то слетела ссылка, не знаю, может не запускается только у меня.По ходу работы сохранил главную страницу, чтоб посмотреть надо клинкнуть [сюда](https://github.com/TheTargetAdam/docs-/blob/main/UFree.jpg) не знаю в чем проблема, во время создания дизайна выкинуло на почту:pushpin:
 - [Видео с кодом и работой проекта](https://github.com/TheTargetAdam/docs-/blob/main/Bandicam.mp4)
+- [Видео с презентацией(защитой проекта)](https://github.com/TheTargetAdam/docs-/blob/main/BandicamPrez.mp4)
 
 ## В данной репозитории представлена основная документация приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Frontend](https://github.com/TheTargetAdam/front):point_left:
