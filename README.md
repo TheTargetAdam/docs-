@@ -12,7 +12,7 @@
 - [Trello](https://trello.com/b/6tiVTElm/сайт-youfree):pushpin:
 - [Miro](https://miro.com/welcomeonboard/SDNMOXZoRnh1S296N3ZHVU53bHh1WnNjcGx4bjVXa3FCY3lkN1N3TWZJcnhnQzJMY0swVnRkSEMxOXdSbURVb3wzNDU4NzY0NTM4OTI2Mjk2ODkwfDI=?share_link_id=395207601280):pushpin:
 - [Figma](https://www.figma.com/file/new/Untitled?t=sONgqNzdeuh8NXKc-0) 
-Дополнение: Не работал на figma, но для демонстрации решил сделать дизайн для этого проекта в будущем, но почему то слетела ссылка, не знаю, может не запускается только у меня.По ходу работы сохранил главную страницу, чтоб посмотреть надо клинкнуть [сюда](https://github.com/TheTargetAdam/docs-/blob/main/Ufree.jpg) не знаю в чем проблема, во время создания дизайна выкинуло на почту:pushpin:
+Дополнение: Не работал на figma, но для демонстрации решил сделать дизайн для этого проекта в будущем, но почему то слетела ссылка, не знаю, может не запускается только у меня.По ходу работы сохранил главную страницу, чтоб посмотреть надо клинкнуть [сюда](https://github.com/TheTargetAdam/docs-/blob/main/UFree.jpg) не знаю в чем проблема, во время создания дизайна выкинуло на почту:pushpin:
 
 ## В данной репозитории представлена основная документация приложения, но вы всегда можете перейти в другие репозитории по этим ссылкам:
 - [Frontend](https://github.com/TheTargetAdam/front):point_left:
